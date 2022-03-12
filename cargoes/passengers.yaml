@@ -1,0 +1,14 @@
+id: 0
+available: true
+label: PASS
+abbreviation: PS
+name: Passengers
+unitName: Passengers
+weight: 1
+colour: 152
+price: 5633
+penaltyLowerBound: 0
+penaltyLength: 22
+sprite: {}
+longName: passengers
+classes: 1
