@@ -1,17 +1,17 @@
-id: 0
-available: true
-label: PASS
 abbreviation: PS
-name: Passengers
-unitName: Passengers
-weight: 1
+available: true
+classes: 1
 colour: 152
-price: 5633
-penaltyLowerBound: 0
+id: 0
+label: PASS
+longName: passengers
+name: Passengers
 penaltyLength: 22
+penaltyLowerBound: 0
+price: 5633
 sprite:
+  filename: cargoes/passengers.png
   left: 0
   top: 0
-  filename: cargoes/passengers.png
-longName: passengers
-classes: 1
+unitName: Passengers
+weight: 1

@@ -1,4 +1,4 @@
-version: 3
+description: Your first NewGRF based on FIRS4 Steeltown
 grfid: TRU1
 name: TrueGRF
-description: Your first NewGRF based on FIRS4 Steeltown
+version: 3
