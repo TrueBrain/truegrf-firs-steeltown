@@ -12,6 +12,6 @@ penaltyLength: 22
 sprite:
   left: 0
   top: 0
-  filename: passengers.png
+  filename: cargoes/passengers.png
 longName: passengers
 classes: 1
