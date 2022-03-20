@@ -7,11 +7,12 @@ probabilityMapGen: 5
 probabilityInGame: 1
 prospectChance: 0
 layout:
-- [0, 0, 0, 5, 4]
-- [1, 1, 1, 5, 6]
-- [1, 1, 1, 5, 6]
-- [3, 2, 3, 6, 9]
-- [7, 8, 7, 8, 9]
+-
+  - [0, 0, 0, 5, 4]
+  - [1, 1, 1, 5, 6]
+  - [1, 1, 1, 5, 6]
+  - [3, 2, 3, 6, 9]
+  - [7, 8, 7, 8, 9]
 cargoAcceptance:
 - VPTS
 - VBOD
