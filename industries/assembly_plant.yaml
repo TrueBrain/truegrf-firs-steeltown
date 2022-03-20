@@ -3,8 +3,8 @@ available: true
 name: Assembly Plant
 colour: 141
 fundCostMultiplier: 145
-probabilityMapGen: 5,
-probabilityInGame: 1,
+probabilityMapGen: 5
+probabilityInGame: 1
 prospectChance: 0
 layout:
 - [0, 0, 0, 5, 4]
