@@ -1,5 +1,3 @@
 # FIRS Steeltown (TrueGRF Port)
 
-This is a [TrueGRF](https://truebrain.github.io/TrueGRF/) port of [FIRS](https://github.com/andythenorth/firs).
-
-You can fork this repository to create your own modifications to FIRS.
+This [TrueGRF](https://truegrf.truebrain.nl/) project is based on a TrueGRF port of [FIRS](https://github.com/andythenorth/firs).
