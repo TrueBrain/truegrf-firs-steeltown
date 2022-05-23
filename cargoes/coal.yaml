@@ -6,7 +6,7 @@ id: 14
 label: COAL
 longName: coal
 name: Coal
-penaltyLength: 255
+penaltyLength: 215
 penaltyLowerBound: 40
 price: 3536
 sprite:

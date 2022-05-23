@@ -6,7 +6,7 @@ id: 4
 label: ALUM
 longName: aluminium
 name: Aluminium
-penaltyLength: 255
+penaltyLength: 248
 penaltyLowerBound: 7
 price: 5756
 sprite:

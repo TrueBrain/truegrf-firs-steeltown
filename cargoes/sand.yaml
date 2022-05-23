@@ -6,7 +6,7 @@ id: 36
 label: SAND
 longName: sand
 name: Sand
-penaltyLength: 255
+penaltyLength: 191
 penaltyLowerBound: 64
 price: 3824
 sprite:

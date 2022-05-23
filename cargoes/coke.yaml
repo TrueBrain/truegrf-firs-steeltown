@@ -6,7 +6,7 @@ id: 16
 label: COKE
 longName: coke
 name: Coke
-penaltyLength: 255
+penaltyLength: 225
 penaltyLowerBound: 30
 price: 3988
 sprite:

@@ -6,7 +6,7 @@ id: 44
 label: SULP
 longName: sulphur
 name: Sulphur
-penaltyLength: 255
+penaltyLength: 225
 penaltyLowerBound: 30
 price: 4317
 sprite:

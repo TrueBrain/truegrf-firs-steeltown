@@ -6,7 +6,7 @@ id: 21
 label: FECR
 longName: ferrochrome
 name: Ferrochrome
-penaltyLength: 255
+penaltyLength: 215
 penaltyLowerBound: 40
 price: 4358
 sprite:

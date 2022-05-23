@@ -6,7 +6,7 @@ id: 45
 label: TYRE
 longName: tyres
 name: Tyres
-penaltyLength: 255
+penaltyLength: 247
 penaltyLowerBound: 8
 price: 6126
 sprite:

@@ -6,7 +6,7 @@ id: 35
 label: SALT
 longName: salt
 name: Salt
-penaltyLength: 255
+penaltyLength: 219
 penaltyLowerBound: 36
 price: 3865
 sprite:

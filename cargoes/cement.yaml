@@ -6,7 +6,7 @@ id: 10
 label: CMNT
 longName: cement
 name: Cement
-penaltyLength: 255
+penaltyLength: 237
 penaltyLowerBound: 18
 price: 4852
 sprite:

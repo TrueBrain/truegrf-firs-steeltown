@@ -6,7 +6,7 @@ id: 49
 label: ZINC
 longName: zinc
 name: Zinc
-penaltyLength: 255
+penaltyLength: 243
 penaltyLowerBound: 12
 price: 5181
 sprite:

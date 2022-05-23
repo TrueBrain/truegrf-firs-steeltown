@@ -6,7 +6,7 @@ id: 50
 label: POTA
 longName: potash
 name: Potash
-penaltyLength: 255
+penaltyLength: 225
 penaltyLowerBound: 30
 price: 4194
 sprite:

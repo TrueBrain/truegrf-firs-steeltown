@@ -6,7 +6,7 @@ id: 33
 label: QLME
 longName: quicklime
 name: Quicklime
-penaltyLength: 255
+penaltyLength: 247
 penaltyLowerBound: 8
 price: 4605
 sprite:
