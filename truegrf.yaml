@@ -1,6 +1,4 @@
-description: Your first NewGRF based on FIRS4 Steeltown
-grfid: TRU1
+description: A new TrueGRF project based on FIRS Steeltown
 license: GPL-2.0
-name: TrueGRF
 type: industry
-version: 5
+version: 6
